@@ -18,3 +18,8 @@ Welcome to Z2K's main profile page on GitHub. For more information about Z2K, vi
 | obsidian-z2k-plugin-template-large | Template | Template Repo for larger scale Obsidian Plugins |
 | obsidian-z2k-plugin-template-small | Template | Template Repo for smaller scale Obsidian Plugins |
 
+
+## Useful Pages
+The following are some useful pages buried down in the repositories worth highlighting:
+- A [list of useful Obsidian Developer Tools](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-small/wiki/Useful-Developer-Tools)
+- 
