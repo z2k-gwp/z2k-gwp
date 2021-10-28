@@ -3,18 +3,18 @@ Welcome to Z2K's main profile page on GitHub. For more information about Z2K, vi
 
 ## Key Repository Hot Links
 
-### Obsidian Plugins
+### Obsidian Plugins and other Repos
 
 | Plugin Name                   | Type    | Description                                                            |
 | ----------------------------- | --- | ---------------------------------------------------------------------- |
-| [obsidian-z2k-daily-logs](https://github.com/z2k-gwp/obsidian-z2k-daily-logs)      | Log    | Create and Manage Daily Logs | 
-| obsidian-z2k-field-fetcher    | Log + Generic | Automatically fills field tags with data from your vault               |
-| obsidian-z2k-field-filler     | Log + Generic | Allows for fields to be replaced with external data using URI notation |
-| obsidian-z2k-field-query      | Log + Generic | Steps through all of the {{fields}} and ask the user for values        |
-| obsidian-z2k-log-event-logger | Log           | Manually logs user-specified events into the daily log's event section |
-| obsidian-z2k-new-card         | Generic       | creates a new card using the z2k structure                             |
+| [obsidian-z2k-daily-logs](https://github.com/z2k-gwp/obsidian-z2k-daily-logs)      | Z2K Logs    | Create and Manage Daily Logs | 
+| obsidian-z2k-field-fetcher    | Z2K Logs  | Automatically fills field tags with data from your vault               |
+| obsidian-z2k-field-filler     | Z2K Logs  | Allows for fields to be replaced with external data using URI notation |
+| obsidian-z2k-field-query      | Z2K Logs  | Steps through all of the {{fields}} and ask the user for values        |
+| obsidian-z2k-log-event-logger | Z2K Logs  | Manually logs user-specified events into the daily log's event section |
+| obsidian-z2k-new-card         | Z2K Cards | creates a new card using the z2k structure                             |
 | --                            |               |                                                                        |
-| obsidian-z2k-utils            | Generic       | General Utils common to all z2k plugins (library)                      |
+| obsidian-z2k-utils            | Library       | General Utils common to all z2k plugins (library)                      |
 | [obsidian-z2k-plugin-template-large](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-large) | Template | Template Repo for larger scale Obsidian Plugins |
 | [obsidian-z2k-plugin-template-small](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-small) | Template | Template Repo for smaller scale Obsidian Plugins |
 
