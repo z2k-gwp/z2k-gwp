@@ -15,4 +15,6 @@ Welcome to Z2K's main profile page on GitHub. For more information about Z2K, vi
 | obsidian-z2k-new-card         | Generic       | creates a new card using the z2k structure                             |
 | --                            |               |                                                                        |
 | obsidian-z2k-utils            | Generic       | General Utils common to all z2k plugins (library)                      |
+| obsidian-z2k-plugin-template-large | Template | Template Repo for larger scale Obsidian Plugins |
+| obsidian-z2k-plugin-template-small | Template | Template Repo for smaller scale Obsidian Plugins |
 
