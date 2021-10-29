@@ -12,6 +12,7 @@ We deeply believe the full disclosure is a crucial step to understanding privacy
 - Using Obsidian is dangerous - but we do trust their developers. But be aware, if they make a mistake, you are at risk - like with any program.
 - Using Obsidian Sync or some other online system is even more dangerous - just like dropbox, etc can be. 
 - Using 3rd party plugins is even _more_ dangerous - we suggest that you use extreme caution before installing _any_ of them, including all of the Z2K plugins. It is just too easy to slip in some backdoor code. Eventually someone will. 
+- Using 3rd party plugins that haven't been approved for community use is beyond dangerous, it is just downright irresponsible. Thus if you see _anybody's_ plugins for manual installation or beta release, unless you are a developer, we don't recommend extreme caution - rather, we beg for you to run the other way. 
 
 ### 3. Commitments
 We deeply commit to a bevy of core goals when it comes to privacy. Sure, they are not legally binding, and #2 requires us to tell you that - but we still make them. It is not just the _right_ thing to do, but the critical thing to do if privacy is our Job One.
