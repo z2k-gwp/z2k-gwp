@@ -5,6 +5,7 @@ Let's face it, when you are putting your thoughts, beliefs, writings, and daily 
 That's the most important bullet. Before anything else, privacy is the first and foremost decision in all design designs.
 - If we don't have strong confidence we can protect the privacy, we just don't do it. If it is a barely tolerable risk we make disclosures.
 - Our plugins never assume data should be pushed somewhere, only data should be pulled into the system.
+- We wrote this document before we published any code to the community. Privacy is in our DNA.
 
 ### 2. Full Disclosure
 We deeply believe the full disclosure is a crucial step to understanding privacy. Frankly, it is a huge risk to even have a system that pulls together all this information. And even if that negates the entire idea of Z2K, it is our job to put out that risk at the onset. 
