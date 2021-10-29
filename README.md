@@ -1,8 +1,11 @@
 ## Welcome
-Welcome to Z2K's main profile page on GitHub. For more information about Z2K, visit the [Z2K Website](https://z2k.dev).
+Welcome to Z2K's main profile page on GitHub. Z2K is a system designed to capture and maintain your thoughts, logs, beliefs, information and creations. It uses a number of applications, plugins, scripts, and design decisions to pull it all together. For more information about Z2K, visit the [Z2K Website](https://z2k.dev). 
+
+Before we go further, it is important to emphasize: [Privacy is our Job One](Privacy.md). 
 
 &nbsp;
 ## Obsidian Plugins and other Repos
+For the coders out there, here are the primary github repositories for browsing:
 
 | Plugin/Repo Name              | Type      | Description                                                            |
 | :---------------------------- | :-------- | :--------------------------------------------------------------------- |
@@ -23,4 +26,3 @@ Welcome to Z2K's main profile page on GitHub. For more information about Z2K, vi
 ## Useful Pages
 The following are some useful pages buried down in the repositories worth highlighting:
 - A [list of useful Obsidian Developer Tools](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-small/wiki/Useful-Developer-Tools)
-- 
