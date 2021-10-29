@@ -6,7 +6,7 @@ Welcome to Z2K's main profile page on GitHub. For more information about Z2K, vi
 
 | Plugin/Repo Name              | Type      | Description                                                            |
 | :---------------------------- | :-------- | :--------------------------------------------------------------------- |
-| [obsidian-z2k-daily-logs](https://github.com/z2k-gwp/obsidian-z2k-daily-logs)      | Z2K Logs    | Create and Manage Daily Logs | 
+| [obsidian-z2k-**daily-logs**](https://github.com/z2k-gwp/obsidian-z2k-daily-logs)                       | Z2K Logs | Create and Manage Daily Logs                      | 
 | obsidian-z2k-field-fetcher    | Z2K Logs  | Automatically fills field tags with data from your vault               |
 | obsidian-z2k-field-filler     | Z2K Logs  | Allows for fields to be replaced with external data using URI notation |
 | obsidian-z2k-field-query      | Z2K Logs  | Steps through all of the {{fields}} and ask the user for values        |
@@ -14,10 +14,10 @@ Welcome to Z2K's main profile page on GitHub. For more information about Z2K, vi
 | --                            |           |                                                                        |
 | obsidian-z2k-core             | Z2K Cards | The primary Z2K plugin to gain access to core actions (e.g. new card)  |
 | --                            |           |                                                                        |
-| obsidian-z2k-utils            | Library   | General Utils common to all z2k plugins (library)                      |
-| --                            |           |                                                                        |
-| [obsidian-z2k-plugin-template-large](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-large) | Template | Template Repo for larger scale Obsidian Plugins |
-| [obsidian-z2k-plugin-template-small](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-small) | Template | Template Repo for smaller scale Obsidian Plugins |
+| [obsidian-z2k-**z2k-utils**](https://github.com/z2k-gwp/obsidian-z2k-utils)                             | Library  | General Utils common to all z2k plugins (library) |
+| --                                                                                                      |          |                                                   |
+| [obsidian-z2k-plugin-**template-large**](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-large) | Template | Template Repo for larger scale Obsidian Plugins   |
+| [obsidian-z2k-plugin-**template-small**](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-small) | Template | Template Repo for smaller scale Obsidian Plugins  |
 
 &nbsp;
 ## Useful Pages
