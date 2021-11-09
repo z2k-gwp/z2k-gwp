@@ -21,6 +21,8 @@ For the coders out there, here are the primary github repositories for browsing:
 | --                                                                                                      |          |                                                   |
 | [obsidian-z2k-plugin-**template-large**](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-large) | Template | Template Repo for larger scale Obsidian Plugins   |
 | [obsidian-z2k-plugin-**template-small**](https://github.com/z2k-gwp/obsidian-z2k-plugin-template-small) | Template | Template Repo for smaller scale Obsidian Plugins  |
+| --                                                                                                      |          |                                                   |
+| [z2k-**system**](https://github.com/z2k-gwp/z2k-system)                                                 | Docs     | Documentation for the Z2K Systen                  |
 
 &nbsp;
 ## Useful Pages
